@@ -1,3 +1,7 @@
+#This file also a convenience script that allows to run administrative 
+# tasks like django-admin
+#Manage.py slso eassy to use when working on a single django project. 
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os

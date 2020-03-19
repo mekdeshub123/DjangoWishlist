@@ -1,3 +1,5 @@
+#this file contains all the django installation configuration, and
+# it explains how settings work and which settings are avaliable.
 """
 Django settings for wishlist project.
 

@@ -1,0 +1,33 @@
+span.place-name {
+    display: inline-block;
+    width: 60%;
+}
+
+form.visited-form {
+    display: inline;
+}
+
+div.wishlist-place {
+    margin: 5%;
+}
+
+label {
+    display: inline-block;
+    padding-right: 8px;
+}
+
+a.nav-link {
+    padding-right: 10px;
+}
+#add-new-place {
+    background-color: blue;
+    border: dark brown;
+}
+#form-wish {
+    padding: 10px;
+    background-color: coral;
+}
+body {
+    padding: 70px;
+    background-color: burlywood;
+}

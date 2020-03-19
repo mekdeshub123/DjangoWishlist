@@ -1,3 +1,5 @@
+#This file take the assignment from wishlis/urls.py to routing
+#  requests for whole sites 
 from django.urls import path
 from . import views
 
