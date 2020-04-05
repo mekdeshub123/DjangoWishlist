@@ -2,6 +2,7 @@
 
 
 References
+I used those links to do additional research
 
 https://docs.djangoproject.com/en/3.0/contents/
 
